@@ -1,0 +1,10 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

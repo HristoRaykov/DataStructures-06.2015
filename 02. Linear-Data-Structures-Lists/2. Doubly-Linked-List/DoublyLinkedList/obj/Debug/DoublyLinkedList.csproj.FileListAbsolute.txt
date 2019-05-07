@@ -1,0 +1,6 @@
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\hrist\Google Drive\SoftUni\Modules\Data Structures 06.2015\02. Linear-Data-Structures-Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
